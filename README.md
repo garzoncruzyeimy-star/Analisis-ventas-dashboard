@@ -1,4 +1,4 @@
-#  📊 Análisis y Dashboard de Ventas
+#   Análisis y Dashboard de Ventas
 
 ##  Descripción
 Proyecto de análisis de datos enfocado en la exploración de ventas, identificación de patrones y generación de insights para la toma de decisiones.
