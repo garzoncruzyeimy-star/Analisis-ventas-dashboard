@@ -1,27 +1,27 @@
 #  📊 Análisis y Dashboard de Ventas
 
-## 📌 Descripción
+##  Descripción
 Proyecto de análisis de datos enfocado en la exploración de ventas, identificación de patrones y generación de insights para la toma de decisiones.
 
-## 🚀 Objetivo
+## Objetivo
 Analizar datos de ventas para identificar productos con mayor y menor rotación, evaluar canales de venta y detectar oportunidades de mejora.
 
-## 🛠️ Herramientas
+##  Herramientas
 - Python
 - Pandas
 - Matplotlib
 - Streamlit
 
-## 📊 Análisis realizado
+## Análisis 
 - Limpieza y transformación de datos
 - Análisis exploratorio de datos (EDA)
 - Creación de KPIs
 - Identificación de patrones y tendencias
 
-## 📈 Resultados
+## Resultados
 - Identificación de productos con baja rotación
 - Evaluación de canales de venta más efectivos
 - Generación de visualizaciones para apoyar la toma de decisiones
 
-## 💻 Autor
+##  Autor
 Yeimy Daniela Garzón Cruz
