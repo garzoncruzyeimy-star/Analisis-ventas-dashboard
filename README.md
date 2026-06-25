@@ -11,7 +11,21 @@ Analizar datos de ventas para identificar productos con mayor y menor rotación,
 - Pandas
 - Matplotlib
 - Streamlit
+- 
+##  Estructura del proyecto
 
+- 📄 `Limpieza_Datos.py`  
+  Script encargado de limpiar y transformar los datos originales.
+
+- 📄 `Dashboard.py`  
+  Script que genera el dashboard para visualizar la información.
+
+- 📊 `RegistrosVentas.xlsx`  
+  Dataset original sin procesar.
+
+- 📊 `df_ventas_limpio.xlsx`  
+  Dataset limpio listo para análisis, generado a partir del proceso de limpieza.
+  
 ## Análisis 
 - Limpieza y transformación de datos
 - Análisis exploratorio de datos (EDA)
