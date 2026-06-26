@@ -28,16 +28,16 @@ Analizar datos de ventas para identificar productos con mayor y menor rotación,
 
 ## Vista del Dashboard
   -`Graficos_Dashboard.png`
-  En la Imagen se muestra la vista de las graficas donde se visualiza:
-   
-  - La evolucion de ventas
-  - El canal de ventas
-  - Ventas por zona
-  - Mejores productos
+  En la seccion se muestra:
+    
+  - La evolucion de ventas atraves del tiempo
+  - -Distribucion del canal de ventas
+  - Ventas por zona geografica
+  - Productos con mejor desempeno 
 
 
 -`KIPs_dashboard.png`
- Visulizacion de la principales metricas del dataset
+ Visulizacion de la principales metricas:
 
  - Ventas totales
  - cantidad de pedidos
